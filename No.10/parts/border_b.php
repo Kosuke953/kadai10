@@ -1,0 +1,1 @@
+class="pb-4 mb-8 sm:border-b border-gray-200"

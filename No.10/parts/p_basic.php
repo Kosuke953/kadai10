@@ -1,0 +1,1 @@
+class="leading-relaxed text-lg mb-4"
